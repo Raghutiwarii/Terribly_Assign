@@ -1,0 +1,35 @@
+.box-txt {
+  border-radius: 8px;
+  border: 3px solid #8c8b8b; 
+  text-align: center;
+  margin-top: 5px;
+  color: #8c8b8b; 
+  padding: 5px;
+  display: inline-block;
+}
+
+.custom-heading {
+  display: inline-block;
+  border-right: 2px solid #d5d3d3; 
+  border-top: 2px solid #d5d3d3; 
+  padding-top: 5px;
+  margin-top: 5px;
+  margin-bottom: 0;
+  font-weight: bold;
+  color: rgb(57, 152, 253);
+  padding-right: 10px; 
+}
+
+.txt {
+  color: #8c8b8b; 
+  width: 80px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.custom-hr {
+  margin: 0; 
+  border: none; 
+  margin-left: 115px;
+  border-bottom: 2px solid #d5d3d3; 
+}
