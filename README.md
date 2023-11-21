@@ -4,7 +4,7 @@ The Terribly Tiny Tales User Profile Page is a beautifully crafted interface tha
 
 ## Key Features
 - **Responsive Design**: The user profile page is meticulously designed to adapt to various screen sizes, providing a seamless browsing experience on both desktop and mobile devices.
-- ** Post Display**: The posts displayed on the user profile page are dynamically populated from the Posts Jsom data.
+- **Post Display**: The posts displayed on the user profile page are dynamically populated from the Posts Jsom data.
 
 ## Components
 The project utilizes the following components:
